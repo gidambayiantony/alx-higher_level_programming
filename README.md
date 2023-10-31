@@ -37,7 +37,7 @@ Your feedback is valuable! If you have suggestions, find issues, or wish to cont
 
 ## License
 
-This repository is licensed under the [appropriate license name]. Check the LICENSE file for more details.
+This repository is licensed under MIT.
 
 Thank you for exploring my ALX Higher Level Programming Showcase! I hope this serves as a testament to my dedication and proficiency in software engineering.
 
