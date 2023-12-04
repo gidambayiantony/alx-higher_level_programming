@@ -36,6 +36,3 @@ By completing this project, you're expected to comprehend the following concepts
 - **9-rectangle.py:** Extends `Rectangle` class by implementing the `area()` method and adjusting print and str methods for descriptive output.
 - **10-square.py:** Implements a class `Square` that inherits from `Rectangle`, ensuring size is a positive integer and implementing the `area()` method.
 - **11-square.py:** Extends `Square` class by modifying print and str methods for descriptive output.
-
-
-
